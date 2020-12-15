@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Dungeon Adventure Web Application", "Dungeon Adventure Web Application\Dungeon Adventure Web Application.vbproj", "{AFA22566-34E2-43E4-B3CD-4736C33A9D0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFA22566-34E2-43E4-B3CD-4736C33A9D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA22566-34E2-43E4-B3CD-4736C33A9D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA22566-34E2-43E4-B3CD-4736C33A9D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA22566-34E2-43E4-B3CD-4736C33A9D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2CDB985-C8EF-4C2F-8762-32112255B932}
+	EndGlobalSection
+EndGlobal
